@@ -1,0 +1,12 @@
+export { default as Hero } from './Hero';
+export { default as About } from './About';
+export { default as AboutUs } from './AboutUs';
+export { default as Work } from './Work';
+export { default as Works } from './Works';
+export { default as Contact } from './Contact';
+export { default as ContactUs } from './ContactUs';
+export { default as BlogList } from './BlogList';
+export { default as BlogDetail } from './BlogDetail';
+export { default as Tech } from './Tech';
+export { default as Experience } from './Experience';
+export { default as Feedbacks } from './Feedbacks';
